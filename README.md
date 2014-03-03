@@ -49,8 +49,8 @@ You can easily display the volume pads using the following code:
 //First you need to say to your PVVolumeBar that you want to show the Lateral Volume Pads
 [_volumeBar setShowsLateralVolumePads:YES];
 
-//And then, you need to say the volume you want to use so that the Lateral Volume Pads are displayed there
-//For example, if your minimum volume is 0.0, maximum volume is 1.0 and you set 0.5 as the volume for Lateral Volume Pads
+//And then, you need to say the volume you want to use so that the Lateral Volume Pads are displayed there.
+//For example, if your minimum volume is 0.0, maximum volume is 1.0 and you set 0.5 as the volume for the Lateral Volume Pads
 //the Lateral Volume Pads will be displayed right in the center of the Volume Bar
 [_volumeBar setVolumeForLateralVolumePads:0.5];
 ```
