@@ -70,9 +70,9 @@ There are several ways of changing the current volume:
 [_volumeBar decreaseCurrentVolumeBy:0.1];
 ```
 
-## Demo Project
+## Example Project
 
-This includes a Demo project that you can use to play around with `PVVolumeBar` and see how it feels and works.
+This includes an example project that you can use to play around with `PVVolumeBar` and see how it feels and works.
 
 ![demo](screenshots/PVVolumeBar_example_project.png)
 
