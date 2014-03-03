@@ -68,10 +68,10 @@ There are several ways of changing the current volume:
 //Increase or decrease the current volume
 [_volumeBar increaseCurrentVolumeBy:0.1 animated:YES];
 [_volumeBar decreaseCurrentVolumeBy:0.1];
-
-Here's how it looks like when changing volume using animations
-![animation](screenshots/animation.gif)
 ```
+Here's how it looks like when changing volume using animations:
+
+![animation](screenshots/animation.gif)
 
 ## Example Project
 
