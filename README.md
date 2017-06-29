@@ -4,7 +4,7 @@ PVVolumeBar
 PVVolumeBar is a simple `NSView` subclass that emulates the Volume Bar you'd normally see on [VLC](http://www.videolan.org/vlc/) when it's in full screen mode.<br>
 Here's the comparison between the VLC's volume bar and what you can do with `PVVolumeBar`
 
-![comparison](screenshots/comparison.png)
+<img custom-param="" src="screenshots/comparison.png"/>
 
 ## Requirements
 
